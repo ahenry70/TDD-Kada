@@ -1,0 +1,7 @@
+c:\users\abel.henry\documents\visual studio 2015\Projects\testTDD_1\testTDD_1\obj\Debug\testTDD_1.csprojResolveAssemblyReference.cache
+c:\users\abel.henry\documents\visual studio 2015\Projects\testTDD_1\testTDD_1\bin\Debug\testTDD_1.dll
+c:\users\abel.henry\documents\visual studio 2015\Projects\testTDD_1\testTDD_1\bin\Debug\testTDD_1.pdb
+c:\users\abel.henry\documents\visual studio 2015\Projects\testTDD_1\testTDD_1\bin\Debug\nunit.framework.dll
+c:\users\abel.henry\documents\visual studio 2015\Projects\testTDD_1\testTDD_1\bin\Debug\nunit.framework.xml
+c:\users\abel.henry\documents\visual studio 2015\Projects\testTDD_1\testTDD_1\obj\Debug\testTDD_1.dll
+c:\users\abel.henry\documents\visual studio 2015\Projects\testTDD_1\testTDD_1\obj\Debug\testTDD_1.pdb
