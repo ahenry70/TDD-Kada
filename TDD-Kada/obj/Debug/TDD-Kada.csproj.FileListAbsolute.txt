@@ -1,0 +1,7 @@
+c:\users\abel.henry\documents\visual studio 2015\Projects\FizzBuzz\TDD-Kada\obj\Debug\TDD-Kada.csprojResolveAssemblyReference.cache
+c:\users\abel.henry\documents\visual studio 2015\Projects\FizzBuzz\TDD-Kada\bin\Debug\TDD-Kada.dll
+c:\users\abel.henry\documents\visual studio 2015\Projects\FizzBuzz\TDD-Kada\bin\Debug\TDD-Kada.pdb
+c:\users\abel.henry\documents\visual studio 2015\Projects\FizzBuzz\TDD-Kada\bin\Debug\nunit.framework.dll
+c:\users\abel.henry\documents\visual studio 2015\Projects\FizzBuzz\TDD-Kada\bin\Debug\nunit.framework.xml
+c:\users\abel.henry\documents\visual studio 2015\Projects\FizzBuzz\TDD-Kada\obj\Debug\TDD-Kada.dll
+c:\users\abel.henry\documents\visual studio 2015\Projects\FizzBuzz\TDD-Kada\obj\Debug\TDD-Kada.pdb
