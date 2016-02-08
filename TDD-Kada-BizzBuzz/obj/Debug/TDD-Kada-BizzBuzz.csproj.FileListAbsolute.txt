@@ -1,0 +1,7 @@
+C:\Users\abel.henry\Documents\TDD-Kada-BizzBuzz\TDD-Kada-BizzBuzz\obj\Debug\TDD-Kada-BizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\abel.henry\Documents\TDD-Kada-BizzBuzz\TDD-Kada-BizzBuzz\bin\Debug\TDD-Kada-BizzBuzz.dll
+C:\Users\abel.henry\Documents\TDD-Kada-BizzBuzz\TDD-Kada-BizzBuzz\bin\Debug\TDD-Kada-BizzBuzz.pdb
+C:\Users\abel.henry\Documents\TDD-Kada-BizzBuzz\TDD-Kada-BizzBuzz\bin\Debug\nunit.framework.dll
+C:\Users\abel.henry\Documents\TDD-Kada-BizzBuzz\TDD-Kada-BizzBuzz\bin\Debug\nunit.framework.xml
+C:\Users\abel.henry\Documents\TDD-Kada-BizzBuzz\TDD-Kada-BizzBuzz\obj\Debug\TDD-Kada-BizzBuzz.dll
+C:\Users\abel.henry\Documents\TDD-Kada-BizzBuzz\TDD-Kada-BizzBuzz\obj\Debug\TDD-Kada-BizzBuzz.pdb
